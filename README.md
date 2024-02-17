@@ -1,5 +1,6 @@
 # Hello, I'm Anton aka B4tt3dCr4n3
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://tryhackme-badges.s3.amazonaws.com/BattedCrane.png" alt="TryHackMe">
 
 [Brief Introduction - Remove this afterwards]
 
