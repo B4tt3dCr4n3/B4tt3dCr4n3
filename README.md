@@ -36,6 +36,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali%20Linux-%23557C94?style=flat&logo=kalilinux&logoColor=white&labelColor=%23557C94&color=grey" />
+    <img src="https://img.shields.io/badge/Wireshark-%231679A7?logo=wireshark&labelColor=%231679A7&color=grey" />
+
+
 </div>
 
 ### Endpoint
